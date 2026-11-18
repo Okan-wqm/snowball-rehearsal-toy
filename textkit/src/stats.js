@@ -2,7 +2,7 @@ export function mean(values) {
   if (values.length === 0) {
     return 0;
   }
-  var total = 0;
+  let total = 0;
   for (const value of values) {
     total = total + value;
   }
