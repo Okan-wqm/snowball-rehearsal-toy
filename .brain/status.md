@@ -4,9 +4,9 @@
 Written by the referee's status.block from the ledger. A hand edit of this block is replaced in the
 next cycle and recorded as a status_edited event.
 
-- Cycle: "44850338872-1"
+- Cycle: "44856980221-1"
 - Last decision: "reject"
-- Base age: 146588 s since genesis
-- Brake: released, 512380 of 1000000 micro-USD spent
+- Base age: 150750 s since genesis
+- Brake: released, 530200 of 1000000 micro-USD spent
 - Human touches: 1
 <!-- /status.block -->
